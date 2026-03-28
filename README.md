@@ -101,7 +101,7 @@ YMOS（系统化）→ "好，把这个策略变成可运行的系统"
 
 ## 关于作者
 
-**勇麦（Yongmai）** — AI 时代投资系统架构师
+**勇麦（Yongmai）** — AI + 投资实践者 / 个人投资者
 
 - 🌐 博客：[yongmai.xyz](https://yongmai.xyz)
 - 📧 邮箱：evan@yongmai.xyz
